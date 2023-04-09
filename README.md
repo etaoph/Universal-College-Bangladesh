@@ -1,2 +1,95 @@
 # Universal-College-Bangladesh
 Wikipedia Article of Universal College Bangladesh
+Universal College Bangladesh
+{{short description|Private college in Bangladesh}}
+{{EngvarB|date=April 2023}}
+{{Use dmy dates|date=April 2023}}
+{{more citations needed|date=April 2023}}
+{{Infobox university
+| name				        = Universal College Bangladesh
+| native_name		      = {{nobold|{{native name|bn|ইউনিভার্সাল কলেজ বাংলাদেশ}}<!--end nobold:-->}}
+| caption			        = Official Logo of Universal College Bangladesh
+| motto				        = Global Education for a Global Generation
+| established		      = {{start date and age|2021}}
+| type				        = Private - not for profit
+| vice_chancellor   	= [[Professor Hew Gill]]<ref name="Governance and Leadership"/>
+| dean				        = [[Professor Ismail Hossain]]<ref name="Governance and Leadership"/>
+| key_people		    	= [[Bob Kundanmal]], [[Chairman]]<br />[[Zarif Munir]], [[Director]]<br />[[Khondoker Monir Uddin]], [[Director]]<br />[[Mohammad A. Moyeen]] , [[Director]]<br />[[Deepak Bhojwani]] , [[Director]]<br />[[Manas Singh]], [[Chief Executive Officer]]<br />[[Amit Prasad]], [[Chief Operating Officer]]<br />[[Amid Hossain Chowdhury]], Head of [[Marketing]]<br />[[Kazi K. A. Alfee]], Head of Enrollment – [[Monash College]]<br />[[M. I. Mehrab]], Head of Enrollment – [[University of London]] and [[London School of Economics]] Programs
+| parent_organization	= STS Group
+| city				        = S.A Tower, Gulshan 1
+| state 			        = Dhaka
+| country 			      = Bangladesh
+| colours  			      = {{color box|#FF0400}}{{color box|#FFFFFF}}{{color box|#000000}}<br /> 					Red, White and Black
+| website			        = {{URL|https://www.ucbbd.org/}}
+| coor 				        = {{Coord|23.7802|N|90.4180|E|type:edu_region:BD|display=inline,title}}
+| affiliations			  = [[Monash College]]<br />[[Monash University]]<br />[[University of 					London]]<br />[[London School of Economics]]
+}}
+
+'''Universal College Bangladesh''' (UCB) is Bangladesh’s premier transnational education institute providing world-class affordable international education. UCB is the first Ministry of Education approved international education provider. Universal College Bangladesh is a part of [[STS Group]], Bangladesh’s largest private sector conglomerate in healthcare and education, operating the nation’s leading brands such as Evercare Hospitals, DPS STS Schools and International School Dhaka (ISD), apart from an upcoming keystone international school project.
+
+Details
+Team
+Responsible
+== History ==
+Up for discussion
+-
+== Campus ==
+Admin Team
+Mr. Parvez, Ms. Prithin
+== Organization and Administration ==
+HR Team
+Ms. Prithin, Mr. Parvez
+== Academics and Faculty ==
+Academic Team
+Prof. Ismail, Mr. Shafik, Mr. Uttam
+== Programs and Courses ==
+Academic Team
+Prof. Ismail, Mr. Shafik, Mr. Uttam
+== Student Life ==
+Academic Team or Student Club Coordinator
+Ms. Habiba, Ms. Nahida
+== Notable Alumni ==
+Academic Team
+Mr. Shafik, Mr. Uttam
+
+Insert text here.
+
+Insert text here.
+
+Insert text here.
+
+Insert text here.
+
+Insert text here.
+
+Insert text here.
+
+==See also==
+* [[List of colleges in Bangladesh]]
+* [[List of universities in Bangladesh]]
+* [[List of colleges in Dhaka]]
+* [[List of universities in Dhaka]]
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{Official website|https://www.ucbbd.org/}}
+
+{{commons category}}
+{{Universities in Bangladesh}}
+{{Colleges in Bangladesh}}
+{{authority control}}
+
+[[Category:2021 establishments in Bangladesh]]
+[[Category:Educational institutions established in 2021]]
+[[Category:Universities and colleges in Dhaka]]
+[[Category:Business schools in Bangladesh]]
+[[Category:Engineering schools in Bangladesh]]
+ [[Category:Information technology schools in Bangladesh]]
+[[Category:Business schools in Dhaka]]
+[[Category:Engineering schools in Dhaka]]
+ [[Category:Information technology schools in Dhaka]]
+[[Category:Dhaka]]
+[[Category:STS Group]]
+[[Category:Private universities and colleges in Bangladesh]]

@@ -1,7 +1,7 @@
 =========================================================================================
 
-# The Official Wikipedia Article Development Repository of 
-# Universal College Bangladesh (UCB)
+# Universal College Bangladesh (UCB) 
+# Wikipedia Article Development Repository
 
 =========================================================================================
 
@@ -10,7 +10,7 @@ UCB is Bangladesh’s premier transnational education institute providing world-
 
 =========================================================================================
 
-# About the Author/Developer 🧑🏻‍💻         [Supporting Information (PoW+SEO)]
+# About the Author/Developer 🧑🏻‍💻      (PoW+SEO)
 
 ⌂ The Author of this repository is Kazi Saabique Ahmed
 - Business Development Expert, Developer and Member of Mensa International

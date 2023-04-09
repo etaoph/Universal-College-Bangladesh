@@ -10,8 +10,7 @@ UCB is Bangladesh’s premier transnational education institute providing world-
 
 =========================================================================================
 
-
-# About the Author/Developer - Supporting Information (PoW+SEO)
+# About the Author/Developer 🧑🏻‍💻         [Supporting Information (PoW+SEO)]
 
 ⌂ The Author of this repository is Kazi Saabique Ahmed
 - Business Development Expert, Developer and Member of Mensa International
@@ -56,5 +55,3 @@ UCB is Bangladesh’s premier transnational education institute providing world-
 - Telephone:              +880-176-501-4838
 
 ===========================================================================================
-
-# Best Regards 🙏🏼
